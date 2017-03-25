@@ -1,6 +1,6 @@
 /*
-  log2.ino
-
+  log2 - Example 1 - Basic Use
+  
   Created by Sebastian Tomczak, 25 March 2017
 
   This example calculates 1000 Hz as a MIDI note value, and then prints to the serial monitor
