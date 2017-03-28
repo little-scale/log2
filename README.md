@@ -1,5 +1,5 @@
 # log2
-A library to use log2 in Arduino. 
+In Arduino, use log2. 
 
 To install this library, download the .zip file and move the decompressed folder to Documents/Arduino/libraries/. 
 
